@@ -1,7 +1,6 @@
 This repository contents IMI metering fraud project.
 
-Group member:
-
+Group members:
 
 <div style="width:830px; background-color:white; height:120px; overflow:auto;">
   <div style="width: 2000px; height: 90px;">
