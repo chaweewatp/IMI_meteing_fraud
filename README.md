@@ -1,5 +1,15 @@
 This repository contents IMI metering fraud project.
 
+
+Phase 1:
+ * N3
+
+Contributions:
+  * cleansing measurement data from UCUE as seen in dict_measurement_N3.json
+
+
+
+
 Group members:
 
 <div style="width:830px; background-color:white; height:120px; overflow:auto;">
