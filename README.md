@@ -1,8 +1,23 @@
 This repository contents IMI metering fraud project.
 
 
+
+<div style="width:830px; background-color:white; height:120px; overflow:auto;">
+  <img src="Images/map (1).png" width="800" height="800">
+</div>
+
+<span style="color:blue"> year *2016* </span>
+<span style="color:red"> year *2017* </span>
+<span style="color:orange"> year *2018* </span>
+<span style="color:green"> year *2019* </span> 
+
+
+
+
+
 Phase 1:
  * N3
+
 
 Contributions:
   * cleansing measurement data from UCUE as seen in dict_measurement_N3.json
