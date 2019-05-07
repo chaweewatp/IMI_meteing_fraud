@@ -6,10 +6,13 @@ This repository contents IMI metering fraud project.
   <img src="Images/map (1).png" width="800" height="800">
 </div>
 
-<span style="color:blue"> year *2016* </span>
-<span style="color:red"> year *2017* </span>
-<span style="color:orange"> year *2018* </span>
-<span style="color:green"> year *2019* </span> 
+<span style="color:blue">Blue:  year *2016* </span>
+
+<span style="color:red">Red: year *2017* </span>
+
+<span style="color:orange">Orange: year *2018* </span>
+
+<span style="color:green">Green: year *2019* </span> 
 
 
 
