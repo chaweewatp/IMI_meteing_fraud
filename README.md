@@ -7,8 +7,12 @@ At first we observed that the size of Excel file is too large (~around 9 GB, ~70
 
 ## in 1_1 Retrieve kWhr data and metering fraud data.pynb
 We started looking through each file, there is 'Note_read' column which content indicator of normal, abnormal meter.
-Examples are '0000' for normal, '0600' for malfunction meter, '1100' for fraud metering, '7700' for empty house,
-and '8800' for false alarm.
+Examples are
+* '0000' for normal,
+* '0600' for malfunction meter,
+* '1100' for fraud metering,
+* '7700' for empty house,
+* and '8800' for false alarm.
 Consequently, we extract interest 'Note_read' in difference json file which are, normal (temp_dict_normal_detect.json), fraud (temp_dict_fraud_detect.json), empty house (temp_dict_empty_house_detect.json), false alarm (temp_dict_false_alarm_detect.json).
 It take about 30 minutes to develop each json file.
 
